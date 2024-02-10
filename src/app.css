@@ -36,3 +36,8 @@ pre[class*=language-] {
     padding-top: 2.5em !important;
 	border-radius: 4px;
 }
+
+main a {
+	text-decoration: underline;
+	color: theme('colors.blue.500');
+}
