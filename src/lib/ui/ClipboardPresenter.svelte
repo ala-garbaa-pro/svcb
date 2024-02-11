@@ -11,7 +11,7 @@
 
 <a
 	href={`/${id}`}
-	class="block px-4 py-5 border rounded-md border-gray-50/10 hover:border-gray-50/15 sm:px-6"
+	class="block px-4 py-5 no-underline border rounded-md border-gray-50/10 hover:border-gray-50/15 sm:px-6"
 >
 	<div class="flex flex-wrap items-center space-y-4 justify-betweenspace-y-4">
 		<div class="flex flex-col justify-between w-full sm:flex-row">
